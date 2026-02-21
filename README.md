@@ -112,9 +112,5 @@ The **Suspicion Score ($S$)** is calculated using a priority-weighted formula:
 
 ---
 
-## 👥 Team Members
-- **Abhay Sharma** - Lead Engineer (Graph Algorithms & Full-Stack Architecture)
-- **[Insert Team Members]**
 
----
 
